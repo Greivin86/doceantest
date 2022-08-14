@@ -1,0 +1,26 @@
+{
+  "name": "doceantest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greivin86/doceantest.git"
+  },
+  "author": "Greivin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greivin86/doceantest/issues"
+  },
+  "homepage": "https://github.com/Greivin86/doceantest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
