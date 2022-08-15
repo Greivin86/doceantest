@@ -7,4 +7,4 @@ const home = (req, res) => {
 
 app.get('/', home)
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+app.listen(port, () => console.log(`app listening on port ${port}!`))
